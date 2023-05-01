@@ -1,15 +1,15 @@
 {
-  "name": "clean-ts-lib",
-  "version": "1.0.0",
-  "description": "Template for clean (TypeScript) library",
+  "name": "clean-cep-validator",
+  "version": "0.0.0",
+  "description": "A simple and clean cep validator",
   "keywords": [
-    "clean",
-    "library",
-    "typescript"
+    "cep",
+    "validator",
+    "validation"
   ],
-  "homepage": "https://github.com/Barthmosz/clean-ts-lib",
+  "homepage": "https://github.com/Barthmosz/clean-ts-cep-validator",
   "bugs": {
-    "url": "https://github.com/Barthmosz/clean-ts-lib/issues"
+    "url": "https://github.com/Barthmosz/clean-ts-cep-validator/issues"
   },
   "license": "MIT",
   "author": "Barthmosz (https://github.com/Barthmosz)",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Barthmosz/clean-ts-lib"
+    "url": "https://github.com/Barthmosz/clean-ts-cep-validator"
   },
   "scripts": {
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
