@@ -5,4 +5,9 @@ describe('Cep Validator', () => {
         const sut = new CepValidator()
         expect(sut.validate('12345')).toBe(false)
     })
+
+    test('should return false if an empty cep is provided', () => {
+        const sut = new CepValidator()
+        expect(sut.validate('')).toBe(false)
+    })
 })
