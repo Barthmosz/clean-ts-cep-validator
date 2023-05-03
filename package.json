@@ -1,6 +1,6 @@
 {
   "name": "clean-cep-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and clean cep validator.",
   "keywords": [
     "cep",
